@@ -18,7 +18,7 @@
 
 > 💼 **IT Manager @ VIP Group of Companies**  
 > 🚀 **Founder & CEO – Software Chasers**  
-> 🤖 AI Certified | Full Stack Architect | UI/UX Learner  
+> 🤖 Software Engineer | Developer | AI Certified | Full Stack Architect | UI/UX Learner  
 > 🌍 Building Intelligent Digital Ecosystems  
 
 </div>
