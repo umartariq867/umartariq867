@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/umartariq867/umartariq867/main/profile.jpg" width="190" style="border-radius:50%; border:4px solid #6C63FF; box-shadow: 0px 0px 40px rgba(108,99,255,0.7);" />
+  <img src="https://raw.githubusercontent.com/umartariq867/umartariq867/profile.jpg" width="190" style="border-radius:50%; border:4px solid #6C63FF; box-shadow: 0px 0px 40px rgba(108,99,255,0.7);" />
 </p>
 
 <h2 align="center">⚡ Vision. Leadership. Scalable Technology.</h2>
