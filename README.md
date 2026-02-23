@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!-- GLASSMORPHISM DARK CEO THEME -->
 
 <p align="center">
@@ -18,7 +16,7 @@
 
 > 💼 **IT Manager @ VIP Group of Companies**  
 > 🚀 **Founder & CEO – Software Chasers**  
-> 🤖 Software Engineer | Developer | AI Certified | Full Stack Architect | UI/UX Learner  
+> 🤖 AI Certified | Full Stack Architect | UI/UX Learner  
 > 🌍 Building Intelligent Digital Ecosystems  
 
 </div>
